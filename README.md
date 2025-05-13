@@ -13,8 +13,8 @@ Este é um projeto de um local de banho e tosa veterinário desenvolvido em ![HT
 ## 🎯 Layout do projeto
 
 <p aling="center">
-  <img src="img/Desktop.png" alt="Versão desktop" width="45%"/>
-  <img src="img/Mobile.png" alt="Versão mobile" width="45%"/>
+  <img src="img/Desktop.png" alt="Versão desktop" width="40%"/>
+  <img src="img/Mobile.png" alt="Versão mobile" width="40%"/>
 </p>
 
 ## ✅ Projeto finalizado
